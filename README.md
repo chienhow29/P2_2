@@ -1,3 +1,4 @@
 # P2
 
-this is p2 group,welcome to our class
+this is p2 practical class
+this is readme file
